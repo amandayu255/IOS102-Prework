@@ -6,7 +6,7 @@ This app allows a user to enter their first name, last name, and school name, se
 
 ### App Walk-though
 
-[Click here to watch the walkthrough on Imgur](https://imgur.com/WhQHuDn)
+[Click here to watch the walkthrough on Imgur](https://imgur.com/a/D7vDlbL)
 
 ### Required Features
 
